@@ -1,4 +1,4 @@
-FROM certbot/certbot:v0.31.0
+FROM certbot/certbot
 MAINTAINER Eric Barault (@ebarault)
 
 VOLUME /certs
